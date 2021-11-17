@@ -4,6 +4,8 @@ This notebook will walk you through some basic techniques of conducting <b>Inter
 
 After finishing this notebook, you will have a "app-style" notebook like the screenshot below. You are encouraged to tweak the codes a little bit to visualize other COVID-19 indices, such as deaths and testings. 
 
+This notebook can be executed at cybergisx platform: [Open With CyberGISX](https://cybergisx.cigi.illinois.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcybergis%2FGISDay_workshop_2021&urlpath=tree%2FGISDay_workshop_2021%2Fbasic_geovisualization_gisday_2021Nov17.ipynb)
+
+
 <img src="https://github.com/cybergis/GISDay_workshop_2021/raw/main/statics/screen.gif" width="750" align="center">
 
-This notebook can be executed at cybergisx platform: [Open With CyberGISX](https://cybergisx.cigi.illinois.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcybergis%2FGISDay_workshop_2021&urlpath=tree%2FGISDay_workshop_2021%2Fbasic_geovisualization_gisday_2021Nov17.ipynb)
